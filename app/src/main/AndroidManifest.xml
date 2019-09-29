@@ -16,8 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ServiceActivity"></activity>
-        <service android:name="com.example.parsaniahardik.shakedetection.ShakeService"></service>
+
     </application>
 
 </manifest>
